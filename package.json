@@ -4,7 +4,8 @@
   "description": "token_based authentication",
   "main": "server.js",
   "scripts": {
-    "test": "devmaster"
+    "test": "devmaster",
+    "start": "node server.js"
   },
   "author": "PhatLe",
   "license": "ISC",
